@@ -26,7 +26,7 @@
 
 <br><h3 align="center">You can find me 🌎</h3>
 <p align="center">
-<a href="https://twitter.com/mrx_unknw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrx_unknw" height="30" width="40" /></a>
+<a href="https://twitter.com/akamejpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrx_unknw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hmiguelp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmiguelp" height="30" width="40" /></a>
 <a href="https://instagram.com/akame.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akame.py" height="30" width="40" /></a>
 </p><br>
