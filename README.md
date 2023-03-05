@@ -22,3 +22,4 @@
 <a href="https://linkedin.com/in/hmiguelp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmiguelp" height="30" width="40" /></a>
 <a href="https://instagram.com/akame.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akame.py" height="30" width="40" /></a>
 </p>
+<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=goddessakame&label=Profile%20views&color=0e75b6&style=flat" alt="goddessakame" /> </p>
