@@ -19,7 +19,7 @@
 
 <br><h3 align="center">Certification 🥇 </h3>
 <p align="center" >
-  <a href="[https://app.aluracursos.com/user/hpacheco/degree-desarrollo-personal-grupo4-one-15490/certificate](https://app.aluracursos.com/degree/certificate/301764ec-d583-45b4-9521-990e6d1e4756)">Personal Development</a><br>
+  <a href="https://app.aluracursos.com/degree/certificate/301764ec-d583-45b4-9521-990e6d1e4756">Personal Development</a><br>
   <a href="https://app.aluracursos.com/user/hpacheco/degree-programacion-primeros-pasos-grupo4-one-15491/certificate">Beginner In Programming</a><br>
   <a href="https://app.aluracursos.com/user/hpacheco/degree-javaoo-grupo4-one-15502/certificate">Object-oriented Java</a>
 </p>
