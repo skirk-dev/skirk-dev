@@ -1,9 +1,8 @@
-### <h1 align="center">Hi, I'm Akame 👋👨‍💻 </h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/122117784/222980495-28b2cb96-c083-42db-9afc-947cd0d4e3f0.jpg" alt="goddessAkame"/>
 </p>
+<h1 align="center">Hi, I'm Akame 👋👨‍💻 </h1>
+<h3 align="center">A passionate backend developer from Colombia</h3>
 
 - 🌱 I’m currently learning **Databases**
 
