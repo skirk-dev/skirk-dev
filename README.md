@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+```js
+const goddessAkame = {
+  pronouns: "he" | "him",
+  code: [Python, Java],
+}
+```
+
+You can find me 🌎:
+
+-[Twitter](https://twitter.com/mrx_unknw)
+-[Instagram](https://instagram.com/akame.py)
+
 <!--
 **goddessAkame/goddessAkame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
