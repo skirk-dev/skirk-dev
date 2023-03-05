@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Akame 👋👨‍💻
+![AKAME SAN](https://user-images.githubusercontent.com/122117784/222980495-28b2cb96-c083-42db-9afc-947cd0d4e3f0.jpg)
 ```js
 const goddessAkame = {
   pronouns: "he" | "him",
