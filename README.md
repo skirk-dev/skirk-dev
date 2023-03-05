@@ -21,7 +21,6 @@
 <p align="center" >
   <a href="https://app.aluracursos.com/degree/certificate/735d6dcc-b622-4440-91ba-88b44f7c6234">Personal Development</a><br>
   <a href="https://app.aluracursos.com/degree/certificate/301764ec-d583-45b4-9521-990e6d1e4756">Beginner In Programming</a><br>
-  <a href="https://app.aluracursos.com/certificate/9f1afb41-85d5-44ef-a728-9e1ccbeaae15">Git and Github</a><br>
   <a href="https://app.aluracursos.com/degree/certificate/9d138339-fdfa-4e4f-bce3-797bca6a10a6">Object-oriented Java</a>
 </p>
 
