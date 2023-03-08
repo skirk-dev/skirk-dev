@@ -17,12 +17,6 @@
 <br><h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<br><h3 align="center">Certification 🥇 </h3>
-<p align="center" >
-  <a href="https://app.aluracursos.com/degree/certificate/735d6dcc-b622-4440-91ba-88b44f7c6234">Personal Development</a><br>
-  <a href="https://app.aluracursos.com/degree/certificate/301764ec-d583-45b4-9521-990e6d1e4756">Beginner In Programming</a><br>
-  <a href="https://app.aluracursos.com/degree/certificate/9d138339-fdfa-4e4f-bce3-797bca6a10a6">Object-oriented Java</a>
-</p>
 
 <br><h3 align="center">You can find me 🌎</h3>
 <p align="center">
