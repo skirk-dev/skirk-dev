@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122117784/222980495-28b2cb96-c083-42db-9afc-947cd0d4e3f0.jpg" alt="goddessAkame"/>
+  <!-- <img src="" alt=""/> Aqui va la imagen, primero se realiza un issues-->
 </p>
-<h1 align="center">Hi, I'm Akame 👋👨‍💻 </h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h1 align="center">Hi, I'm Henry Pacheco 👋👨‍💻 </h1>
+<h3 align="center">Passionate about continuous learning and constant improvement, always looking for new challenges and opportunities to grow as a developer.</h3>
 
 - 🌱 I’m currently learning **Databases**
 
