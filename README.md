@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Back-Hen](https://github.com/Back-Hen)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **akame7311@gmail.com**
 
