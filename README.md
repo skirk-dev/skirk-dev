@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- <img src="" alt=""/> Aqui va la imagen, primero se realiza un issues-->
+  <img src="https://user-images.githubusercontent.com/122117784/225175853-6518f8c6-4166-4e9f-aac5-13b0b4e4877a.jpg" alt="Profile"/>
 </p>
 <h1 align="center">Hi, I'm Henry Pacheco 👋👨‍💻 </h1>
 <h3 align="center">Passionate about continuous learning and constant improvement, always looking for new challenges and opportunities to grow as a developer.</h3>
