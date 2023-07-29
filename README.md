@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Back-Hen](https://github.com/4k4m3-3th)
+- 👨‍💻 All of my projects are available at [https://github.com/4k4m3-3th](https://github.com/4k4m3-3th)
 
 - 💬 Ask me about **Tech**
 
