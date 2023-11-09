@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gatinho Programador 👋👨‍💻 </h1>
+<h1 align="center">Hi, I'm Skirk 👋👨‍💻 </h1>
 <h3 align="center">Estou concentrado em aprender o ramo da segurança cibernética. :stars: </h3>
 
 - 🌱 I’m currently learning **segurança cibernética**
