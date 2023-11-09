@@ -1,20 +1,7 @@
-<h1 align="center">Hi, I'm Skirk 👋👨‍💻 </h1>
-<h3 align="center">Estou concentrado em aprender o ramo da segurança cibernética. :stars: </h3>
+<h1 align=“center”>Hi, I’m Skirk <img src=“https://avatars.githubusercontent.com/u/12345678?v=4” width=“100” height=“100” alt=“Skirk’s avatar”/> </h1> <h3 align=“center”>I’m a cybersecurity enthusiast and aspiring ethical hacker. 🌠 </h3>
 
-- 🌱 I’m currently learning **segurança cibernética**
-
-- 👯 I’m looking to collaborate on **Open source projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/skirksan](https://github.com/skirksan)
-
-- 💬 Ask me about **Tech**
-
-
-<br><h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<br><h3 align="center">You can find me 🌎</h3>
-<p align="center">
-<a href="https://instagram.com/ethx.ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="backhen.dev" height="30" width="40" /></a>
-</p><br>
-<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=goddessakame&label=Profile%20views&color=0e75b6&style=flat" alt="goddessakame" /> </p>
+🌱 I’m currently learning how to perform penetration testing and vulnerability assessment on web applications and networks.
+👯 I’m looking to collaborate on open source projects related to cybersecurity and web development.
+👨‍💻 Some of my projects are available at https://github.com/skirksan.
+💬 Ask me about tech, security, hacking, and anything in between.
+<br><h3 align=“center”>Languages and Tools:</h3> <p align=“center”> <img src=“https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white” alt=“Java badge”/> <img src=“https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white” alt=“Python badge”/> <img src=“https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white” alt=“MySQL badge”/> <img src=“https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white” alt=“Git badge”/> <img src=“https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black” alt=“Linux badge”/> <img src=“https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white” alt=“Eclipse badge”/> <img src=“https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white” alt=“Burp Suite badge”/> <img src=“https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white” alt=“Nmap badge”/> </p>
