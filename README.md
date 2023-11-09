@@ -12,11 +12,9 @@ passion for anime and games with his love for programming.</h3>
 
 - 💬 Ask me about **Python.**
 
- 📄 Know about my experiences [I have knowledge in Python, Linux, Git. 
-Some of my projects are: Inventory Management, AI Chat from terminal, IG
- reel downloader.](I have knowledge in Python, Linux, Git. Some of my 
-projects are: Inventory Management, AI Chat from terminal, IG reel 
-downloader.
+ 📄 Know about my experiences [I have knowledge in **Python, Linux, Git.** 
+Some of my projects are: **Inventory Management, AI Chat from terminal, IG
+ reel downloader.**]
 
 - ⚡ Fun fact **I like anime and video games.**
 
