@@ -3,7 +3,7 @@
 <h3
  align="center">I am a Systems Engineering student, who combines his 
 passion for anime and games with his love for programming.</h3>
-<img align="right" alt="profile" width=400" src="https://github.com/skirk-dev/skirk-dev/assets/122117784/d2ed9b77-9df4-4a4a-b4c9-1741445c7dab.png" />
+<img align="right" alt="profile" width="400" src="https://github.com/skirk-dev/skirk-dev/assets/122117784/d2ed9b77-9df4-4a4a-b4c9-1741445c7dab.png" />
 
 
 - 🔭 I’m currently working on [Uforms](https://github.com/skirk-dev/Uforms)
