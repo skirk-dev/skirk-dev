@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/g4t1nh0dg1](https://github.com/skirksan)
+- 👨‍💻 All of my projects are available at [https://github.com/skirksan](https://github.com/skirksan)
 
 - 💬 Ask me about **Tech**
 
