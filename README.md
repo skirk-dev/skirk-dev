@@ -1,5 +1,5 @@
 ![MasterHad](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
-<h1 align="center">Hi 👋, I'm Skirk</h1>
+<h1 align="center">Hi 👋, I'm Henry</h1>
 <h3
  align="center">I am a Systems Engineering student, who combines his 
 passion for anime and games with his love for programming.</h3>
